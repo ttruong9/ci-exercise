@@ -1,19 +1,19 @@
-package CS_348_SP_2018.CIExercise;
+package CS_348_SP_2019.CIExercise;
 
-public class EndsWith2 {
+public class EndsWith4 {
 	
 	String names;
 
-	public EndsWith2()  {
+	public EndsWith4()  {
 		names = "";
 		// add your name here in the form of a line that looks like:
 		// names+= "John Smith\n";
-
+		
 	}
 
 	@Override
 	public String toString() {
-		return "EndsWith2 [names=" + names + "]";
+		return "EndsWith4 [names=" + names + "]";
 	}
 
 }

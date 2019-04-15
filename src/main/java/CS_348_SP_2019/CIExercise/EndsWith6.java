@@ -1,4 +1,4 @@
-package CS_348_SP_2018.CIExercise;
+package CS_348_SP_2019.CIExercise;
 
 public class EndsWith6 {
 
@@ -8,6 +8,7 @@ public class EndsWith6 {
 		names = "";
 		// add your name here in the form of a line that looks like:
 		// names+= "John Smith\n";
+		
 	}
 
 	@Override

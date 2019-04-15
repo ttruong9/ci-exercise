@@ -1,4 +1,4 @@
-package CS_348_SP_2018.CIExercise;
+package CS_348_SP_2019.CIExercise;
 
 /**
  * Continuous Integration Example
