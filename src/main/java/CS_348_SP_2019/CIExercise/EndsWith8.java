@@ -7,7 +7,8 @@ public class EndsWith8 {
 	public EndsWith8()  {
 		names = "";
 		// add your name here in the form of a line that looks like:
-
+		names += "Kyle Quadarella\n";
+		names += "Gloris Pina\n";
 	}
 
 	@Override
