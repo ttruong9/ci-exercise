@@ -28,6 +28,8 @@ gradle clean build
 ### 4. View Travis CI Builds
 [https://travis-ci.org/cs-worcester-cs-348-sp-2019/ci-exercise/](https://travis-ci.org/cs-worcester-cs-348-sp-2019/ci-exercise)
 
+Be sure to look at the tabs `Current`, `Branches`, `Build History`, and `Pull Requests`.
+
 ### 5. Look at the Travis Configuration
 Look at the `.travis.yml` file in the CIExercise
 
@@ -46,6 +48,8 @@ I am *intentionally* not repeating all of the Git and GitHub commands for you he
 3. Ask me for help.
  
 ### 1. Create an `add-yourname` branch, and switch to that branch
+
+Replace `yourname` with your own name.
 
 ### 2. Edit the code
 Based on the last digit of your WSU Student ID, edit the appropriate `EndsWith` class. For example, my ID ends with `2`, so I edited the `EndsWith2.java` file. Look at `EndsWith2.java` as an example for what to do.
@@ -77,6 +81,8 @@ Make sure you are pushing to your branch.
 ### 8. Make a pull request to have your change merged into the original repository
 
 Note that you cannot make a pull request until Travis has run your build, and your tests are successful.
+
+See the [branch protection rule](https://github.com/cs-worcester-cs-348-sp-2019/ci-exercise/settings/branch_protection_rules/5045241) to see how this was done. 
 
 ### 9. Go to the original repository and approve someone else's pull request
 
