@@ -1,3 +1,4 @@
+
 package CS_348_SP_2019.CIExercise;
 
 public class EndsWith1 {
@@ -10,11 +11,11 @@ public class EndsWith1 {
         // names+= "John Smith\n";
 		names += "Kat Law\n";
 		names += "Khoa Nguyen\n";
-
+	}
+	
 	@Override
 	public String toString() {
 		return "EndsWith1 [names=" + names + "]";
 	}
 
 }
-
