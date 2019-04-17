@@ -6,6 +6,7 @@ public class EndsWith7 {
 	public EndsWith7()  {
 		names = "";
 		names+= "Samantha Tran\n";
+		names+= "James Denesha\n";
 	}
 
 	@Override
