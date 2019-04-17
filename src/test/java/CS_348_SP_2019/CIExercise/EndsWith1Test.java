@@ -14,6 +14,6 @@ public class EndsWith1Test {
 
 		// add your name to the expected string, after the all the other names in the form John Smith\n
 		assertEquals("EndsWith1 [names=Kat Law\n]", one.toString());
-	}
+		assertEquals("EndsWith1 [names=Khoa Nguyen\n]", one.toString());
 
 }
